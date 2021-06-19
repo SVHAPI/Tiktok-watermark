@@ -1,5 +1,5 @@
 # Tiktok-watermark
-抖音去除视频水印
+抖音去除自带水印，仅支持抖音自带水印！！！
 
 直接运行Tiktok-watermark.exe
 
